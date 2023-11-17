@@ -2,8 +2,8 @@
 
 **RG2 Parameters:**
 
-- v = 55 to 184 mm/s
-- total_stroke = 0.0 to 110 mm
+- v = 55 to 180 mm/s
+- total_stroke = 0.0 to 100 mm
 
 **Robotiq 2F-85:**
 
