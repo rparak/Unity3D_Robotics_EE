@@ -1,4 +1,4 @@
-# Unity3D_Robotics_EE
+# Unity3D Industrial Robotics: End-Effector Control
 
 **RG2 Parameters:**
 
