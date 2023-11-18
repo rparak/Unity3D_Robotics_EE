@@ -40,6 +40,26 @@ The repository that describes the design of SMC's custom grippers, and other use
 
 [SMC Industrial Automation: End-Effector Prototypes](https://github.com/rparak/SMC_End_Effector_Prototype)
 
+For more information about how to use end-effectors within the Unity3D environment, please watch the video below.
+
+## Project Hierarchy:
+
+```bash
+[/CAD/]
+Description:
+  3D models of the individual parts of the end-effector.
+
+[/Unity3D_Robotics_EE/]
+Description:
+  The main Unity3D project with additional dependencies.
+  
+```
+
+<p align="center">
+  <img src="https://github.com/rparak/Unity3D_Robotics_EE/blob/main/images/Unity3D_App_1.png" width="800" height="500">
+  <img src="https://github.com/rparak/Unity3D_Robotics_EE/blob/main/images/Unity3D_App_2.png" width="800" height="500">
+</p>
+
 ## Result:
 
 Youtube: ...
