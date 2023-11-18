@@ -24,7 +24,7 @@ Universal Windows Platform, Android
 
 ## Project Description:
 
-The Unity3D End-Effector Control project focuses on the integration and control of various types of end-effectors, including Robotiq, OnRobot, ABB Smart Gripper, and SMC's custom grippers,within the Unity3D environment. This project leverages the power of Unity3D, a robust game development engine, to provide a versatile and user-friendly platform for simulating, testing, and controlling a variety of robotic end-effectors.
+The project focuses on the integration and control of various types of end-effectors, including Robotiq, OnRobot, ABB Smart Gripper, and SMC's custom grippers, within the Unity3D environment. The project leverages the power of Unity3D, a robust game development engine, to provide a versatile and user-friendly platform for simulating, testing, and controlling a variety of robotic end-effectors.
 
 The motion parameters of a specific end-effector can be found in the following table.
 
