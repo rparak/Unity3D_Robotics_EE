@@ -49,6 +49,10 @@ For more information about how to use end-effectors within the Unity3D environme
 Description:
   3D models of the individual parts of the end-effector.
 
+[/Helpers/]
+Description:
+  Some useful Python programs to understand how to control the end-effector of Robotiq and OnRobot.
+
 [/Unity3D_Robotics_EE/]
 Description:
   The main Unity3D project with additional dependencies.
