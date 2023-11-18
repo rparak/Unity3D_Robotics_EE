@@ -15,3 +15,44 @@
 
 - v = 5 to 25 mm/s
 - total_stroke = 0.0 to 50 mm
+
+ ## Requirements:
+
+**Software:**
+```bash
+Blender, Unity3D 2022.3.2f1 (LTS), Visual Studio 2019/2022
+```
+
+**Supported on the following operating systems:**
+```bash
+Universal Windows Platform, Android
+```
+
+| Software/Package      | Link                                                                                  |
+| --------------------- | ------------------------------------------------------------------------------------- |
+| Blender               | https://www.blender.org/download/                                                     |
+| Unity3D               | https://unity3d.com/get-unity/download/archive                                        |
+| Visual Studio         | https://visualstudio.microsoft.com/downloads/                                         |
+
+## Project Description:
+
+The Unity3D End-Effector Control project focuses on the integration and control of various types of end-effectors, including Robotiq, OnRobot, ABB Smart Gripper, and SMC's custom grippers,within the Unity3D environment. This project leverages the power of Unity3D, a robust game development engine, to provide a versatile and user-friendly platform for simulating, testing, and controlling a variety of robotic end-effectors.
+
+## Result:
+
+Youtube: ...
+
+## Contact Info:
+Roman.Parak@outlook.com
+
+## Citation (BibTex)
+```bash
+@misc{RomanParak_Unity3D,
+  author = {Roman Parak},
+  title = {A digital-twins in the field of industrial robotics integrated into the unity3d development platform},
+  year = {2020-2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/rparak/Unity3D_Robotics_Overview}}
+}
+```
