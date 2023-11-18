@@ -63,8 +63,8 @@ public class Ctrl_ABB_SG : MonoBehaviour
             case 0:
                 {
                     // If the values are out of range, clamp them.
-                    __stroke = Mathf.Clamp(stroke, s_min, s_max) / 100000.0f;
-                    __speed = Mathf.Clamp(speed, v_min, v_max) / 100000.0f;
+                    __stroke = Mathf.Clamp(stroke / 2.0f, s_min, s_max) / 100000.0f;
+                    __speed = Mathf.Clamp(speed / 2.0f, v_min, v_max) / 100000.0f;
 
                     if (start_movemet == true)
                     {
