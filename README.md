@@ -1,5 +1,9 @@
 # Unity3D Industrial Robotics: End-Effector Control
 
+<p align="center">
+<img src=https://github.com/rparak/Unity3D_Robotics_EE/blob/main/images/Background.png width="800" height="450">
+</p>
+
 **RG2 Parameters:**
 
 - v = 55 to 180 mm/s
