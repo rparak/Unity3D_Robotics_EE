@@ -27,7 +27,18 @@ Universal Windows Platform, Android
 The Unity3D End-Effector Control project focuses on the integration and control of various types of end-effectors, including Robotiq, OnRobot, ABB Smart Gripper, and SMC's custom grippers,within the Unity3D environment. This project leverages the power of Unity3D, a robust game development engine, to provide a versatile and user-friendly platform for simulating, testing, and controlling a variety of robotic end-effectors.
 
 The repository that describes the design of SMC's custom grippers, and other useful information can be found in the link below.
+
 [SMC Industrial Automation: End-Effector Prototypes](https://github.com/rparak/SMC_End_Effector_Prototype)
+
+The motion parameters of a specific end-effector can be found in the following table.
+
+| Software/Package  | Velocity       | Total Stroke |
+| ----------------- | -------------- | ------------ |
+| Robotiq 2F-85     | 20 to 150 mm/s | 0 to 85 mm   |
+| OnRobot RG2       | 55 to 180 mm/s | 0 to 100 mm  |
+| ABB Smart Gripper | 5 to 25 mm/s   | 0 to 50 mm   |
+
+The other end-effectors are pneumatically controlled and do not use this type of parameter for their control.
 
 **RG2 Parameters:**
 
